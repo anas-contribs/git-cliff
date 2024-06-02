@@ -32,7 +32,7 @@ nix-env -iA nixpkgs.git-cliff
 
 If you're using the new experimental CLI, you can use any of the following:
 
-### `nix run
+### `nix run`
 ```sh
 nix run nixpkgs#git-cliff
 ```
